@@ -1,3 +1,1 @@
-# 夏令营进度汇总（二）：已完成
-## 项目介绍
-
+汇总论坛链接：https://club.rt-thread.org/ask/article/8942086a3532fc7f.html
